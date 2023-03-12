@@ -17,17 +17,24 @@ This project requires
 ## Setup
 1. Clone this repository into htdocs / right place.
 
-2. Create database MySQL with name : `backend_saw` & don't forget import mysql query (for create table) that already attached in this repository => [sql](https://github.com/mellyzarsmwn/backend-saw/tree/master/sql/koproll.sql)
+2. Create database MySQL with name : `backend_saw`
 
-3. Configure `backend_saw` configuration file
+3.  Don't forget running mysql query 
+  - sql/backend_saw.sql
+  - sql/seeds_master_data.sql
+  - sql/seeds_example_data.sql
+  
+5. Configure database on 'application/config/database.php'
+6. Configure base url on 'application/config/config.php'
+7. running your apache (can use with xampp or another tools if not use xampp)
 
-4. Run application (In Web Browser)
+9. Run application (In Web Browser)
 ```
 http://localhost/saw-app/
 ```
 
-5. Try to login with credentials below:
-- user admin
+10. Try to login with credentials below:
+- user
 ```
 email : hr@gmail.com
 password: 123456
