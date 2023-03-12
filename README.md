@@ -2,9 +2,9 @@
     <img src="assets/image/programmer.png" alt="Programmer logo" title="Backend" align="right" height="60" />
 </a>
 
-Backend SAW
+SAW Application
 ======================
-## Backend SAW?
+## SAW Application?
 
 
 ## Getting started
@@ -23,12 +23,12 @@ This project requires
 
 4. Run application (In Web Browser)
 ```
-http://localhost/backend-saw/
+http://localhost/saw-app/
 ```
 
 5. Try to login with credentials below:
 - user admin
 ```
-email : admin@admin.com
+email : hr@gmail.com
 password: 123456
 ```
