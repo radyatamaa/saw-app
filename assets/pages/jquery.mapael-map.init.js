@@ -16,7 +16,7 @@ $(function(){
 			name : "usa_states",
              defaultArea: {
                 attrs: {
-                    fill: "#36404e",
+                    fill: "#1f897f",
                     stroke: "#aaa"
                 },
                  attrsHover: {
@@ -131,7 +131,7 @@ $(function(){
             name: "world_countries",
             defaultArea: {
                 attrs: {
-                    fill: "#36404e"
+                    fill: "#1f897f"
                     , stroke: "#aaa"
                 },
                 attrsHover: {

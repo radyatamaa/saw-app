@@ -8,7 +8,7 @@
 	<meta name="author" content="Coderthemes">
 
 	<!-- App favicon -->
-	<link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favicon.ico">
+	<link rel="shortcut icon" href="<?php echo base_url(); ?>assets/image/logo.png">
 	<!-- App title -->
 	<title>SAW Application</title>
 
@@ -25,8 +25,9 @@
 			<!-- Image logo -->
 			<a href="<?php echo base_url(); ?>index.php/defaults" class="logo">
                         <span>
-                            <img src="<?php echo base_url(); ?>assets/image/code.png" alt="" height="50">
+                            <img src="<?php echo base_url(); ?>assets/image/logo.png" alt="" height="50">
 							SAW
+							<span></span>
                         </span>
 				<i>
 					<img src="<?php echo base_url(); ?>assets/image/code.png" alt="" height="40">
@@ -70,10 +71,10 @@
 					<li class="menu-title">Menu</li>
 					<li class="has_sub">
 						<a href="<?php echo site_url('defaults') ?>" class="waves-effect"><i
-									class="mdi mdi-view-dashboard"></i><span> Dashboard </span> </a>
+									class="mdi mdi-chart-bar"></i><span> Dashboard </span> </a>
 					</li>
 					<li class="has_sub">
-						<a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-clipboard-text"></i>
+						<a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-library-books"></i>
 							<span> Master Data </span>
 							<span class="menu-arrow"></span></a>
 						<ul class="list-unstyled">
@@ -86,12 +87,12 @@
 					</li>
 					<li class="has_sub">
 						<a href="<?php echo site_url('alternativevalue') ?>" class="waves-effect"><i
-									class="mdi mdi-counter"></i><span>Nilai Kandidat</span> </a>
+									class="mdi mdi-content-paste"></i><span>Nilai Kandidat</span> </a>
 						<a href="<?php echo site_url('sawcalculation') ?>" class="waves-effect"><i
-									class="mdi mdi-cash-multiple"></i><span>Perhitungan</span> </a>
+									class="mdi mdi-contrast"></i><span>Kalkulasi Perhitungan</span> </a>
 					</li>
 					<li class="has_sub">
-						<a href="<?php echo site_url('login/out') ?>" class="waves-effect"><i class="mdi mdi-power"></i><span> Logout </span>
+						<a href="<?php echo site_url('login/out') ?>" class="waves-effect"><i class="mdi mdi-logout"></i><span> Logout </span>
 						</a>
 					</li>
 				</ul>

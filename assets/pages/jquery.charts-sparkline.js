@@ -84,7 +84,7 @@ $( document ).ready(function() {
             barWidth: '10',
             barSpacing: '5',
             composite: true,
-            barColor: '#36404e'
+            barColor: '#1f897f'
         });
     
 

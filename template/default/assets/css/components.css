@@ -57,19 +57,19 @@ File: Components
 .tooltip .tooltip-inner {
   padding: 4px 10px;
   border-radius: 2px;
-  background-color: #313a46;
+  background-color: #86cbbe;
 }
 .tooltip.left .tooltip-arrow {
-  border-left-color: #313a46;
+  border-left-color: #86cbbe;
 }
 .tooltip.top .tooltip-arrow {
-  border-top-color: #313a46;
+  border-top-color: #86cbbe;
 }
 .tooltip.bottom .tooltip-arrow {
-  border-bottom-color: #313a46;
+  border-bottom-color: #86cbbe;
 }
 .tooltip.right .tooltip-arrow {
-  border-right-color: #313a46;
+  border-right-color: #86cbbe;
 }
 /* Tooltpster */
 .tooltipster-sidetip .tooltipster-box {
@@ -445,7 +445,7 @@ File: Components
 .panel-default > .panel-heading {
   background-color: #f3f3f3;
   border-bottom: none;
-  color: #797979;
+  color: #1f897f;
 }
 .panel-title {
   font-size: 15px;
@@ -619,7 +619,7 @@ File: Components
   padding: 15px;
 }
 .portlet-default .portlet-title {
-  color: #797979 !important;
+  color: #1f897f !important;
 }
 .portlet .portlet-heading .portlet-widgets .collapsed .ion-minus-round:before {
   content: "\f217" !important;
@@ -650,7 +650,7 @@ File: Components
 .portlet-loader {
   width: 30px;
   height: 30px;
-  background-color: #313a46;
+  background-color: #86cbbe;
   border-radius: 2px;
   -webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
   animation: sk-rotateplane 1.2s infinite ease-in-out;
@@ -722,7 +722,7 @@ File: Components
   margin-top: 2px;
 }
 .checkbox label::after {
-  color: #797979;
+  color: #1f897f;
   display: inline-block;
   font-size: 11px;
   height: 16px;
@@ -862,7 +862,7 @@ File: Components
   -o-transition: -o-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
   -webkit-transform: scale(0, 0);
   -webkit-transition: -webkit-transform 0.1s cubic-bezier(0.8, -0.33, 0.2, 1.33);
-  background-color: #797979;
+  background-color: #1f897f;
   border-radius: 50%;
   content: " ";
   display: inline-block;
@@ -1030,7 +1030,7 @@ File: Components
   padding: 15px 25px 15px 25px;
   line-height: 22px;
   font-size: 18px;
-  background-color: #313a46;
+  background-color: #86cbbe;
   color: #ffffff;
   text-align: left;
   margin: 0;
@@ -1050,7 +1050,7 @@ File: Components
   padding: 20px 0 0 0;
 }
 .nav-tabs > li > a {
-  color: #313a46;
+  color: #86cbbe;
   text-transform: uppercase;
   font-weight: 600;
   font-family: 'Hind Madurai', sans-serif;
@@ -1077,7 +1077,7 @@ File: Components
   width: 150px;
 }
 .tabs-vertical-env .nav.tabs-vertical li > a {
-  color: #313a46;
+  color: #86cbbe;
   text-align: center;
   white-space: nowrap;
   font-weight: 600;
@@ -1111,7 +1111,7 @@ File: Components
 }
 /* Navpills */
 .nav-pills > li > a {
-  color: #313a46;
+  color: #86cbbe;
 }
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:focus,
@@ -1529,14 +1529,14 @@ File: Components
   border-radius: 50%;
   -moz-border-radius: 50%;
   background-clip: padding-box;
-  border: 1px dashed #98a6ad;
+  border: 1px dashed #f9fbfc;
   background-color: #f3f3f3;
   margin-right: 20px;
 }
 .widget-box-three .bg-icon i {
   line-height: 80px;
   font-size: 36px;
-  color: #98a6ad;
+  color: #f9fbfc;
 }
 .tilebox-two {
   border-left: 4px solid #f3f3f3;
@@ -1575,7 +1575,7 @@ File: Components
   border-left-color: #6b5fb5;
 }
 .tilebox-dark {
-  border-left-color: #313a46;
+  border-left-color: #86cbbe;
 }
 .tilebox-brown {
   border-left-color: #8d6e63;
@@ -1603,7 +1603,7 @@ File: Components
   width: 40px;
 }
 .inbox-widget .inbox-item .inbox-item-author {
-  color: #313a46;
+  color: #86cbbe;
   display: block;
   margin: 0;
 }
@@ -1652,7 +1652,7 @@ File: Components
   position: relative;
 }
 .conversation-list .ctext-wrap i {
-  color: #313a46;
+  color: #86cbbe;
   display: block;
   font-size: 12px;
   font-style: normal;
@@ -1727,7 +1727,7 @@ File: Components
   border: 0;
   margin: 0;
   padding: 1px;
-  color: #98a6ad;
+  color: #f9fbfc;
 }
 .todo-list li:last-of-type {
   border-bottom: none;
@@ -1772,7 +1772,7 @@ File: Components
   height: auto;
   font-size: 17px;
   margin: 8px auto;
-  color: #797979;
+  color: #1f897f;
   width: 30px;
 }
 .custom-dd-empty .dd-list .dd3-handle {
@@ -1813,7 +1813,7 @@ File: Components
 .dd-placeholder,
 .dd-empty {
   background: #f3f3f3;
-  border: 1px dashed #98a6ad;
+  border: 1px dashed #f9fbfc;
 }
 .dd-dragel > .dd3-item > .dd3-handle {
   border: none;
@@ -1895,7 +1895,7 @@ File: Components
 .fc-button {
   background: #f1f1f1;
   border: none;
-  color: #797979;
+  color: #1f897f;
   text-transform: capitalize;
   box-shadow: none !important;
   border-radius: 3px !important;
@@ -2146,7 +2146,7 @@ input[switch] + label {
   transition: all 0.1s ease-in-out;
 }
 input[switch] + label:before {
-  color: #313a46;
+  color: #86cbbe;
   content: attr(data-off-label);
   display: block;
   font-family: inherit;
@@ -2513,7 +2513,7 @@ input[switch="teal"]:checked + label {
 }
 .autocomplete-suggestions strong {
   font-weight: bold;
-  color: #313a46;
+  color: #86cbbe;
 }
 .autocomplete-group {
   padding: 2px 5px;
@@ -2521,7 +2521,7 @@ input[switch="teal"]:checked + label {
 .autocomplete-group strong {
   font-weight: bold;
   font-size: 16px;
-  color: #313a46;
+  color: #86cbbe;
   display: block;
 }
 /* Bootstrap-select */
@@ -2625,7 +2625,7 @@ input[switch="teal"]:checked + label {
 }
 .daterangepicker .ranges li {
   border-radius: 2px;
-  color: #313a46;
+  color: #86cbbe;
   font-weight: 600;
   font-size: 12px;
   font-family: 'Hind Madurai', sans-serif;
@@ -2752,19 +2752,19 @@ input[switch="teal"]:checked + label {
 }
 .wizard > .actions .disabled a {
   background: #ffffff;
-  color: #313a46;
+  color: #86cbbe;
   cursor: default;
   border: 1px solid #eaeaea;
 }
 .wizard > .actions .disabled a:hover {
   background: #f3f3f3;
-  color: #313a46;
+  color: #86cbbe;
   cursor: default;
   border: 1px solid #eaeaea;
 }
 .wizard > .actions .disabled a:active {
   background: #f3f3f3;
-  color: #313a46;
+  color: #86cbbe;
   cursor: default;
   border: 1px solid #eaeaea;
 }
@@ -2969,7 +2969,7 @@ ul.ColVis_collection li {
   -webkit-transition: 0.3s ease-in-out;
   background-color: #ffffff;
   border-radius: 3px;
-  border: 1px solid #98a6ad;
+  border: 1px solid #f9fbfc;
   content: "";
   display: inline-block;
   height: 17px;
@@ -3418,7 +3418,7 @@ table.dataTable thead th.sorting_desc:after {
 /* Flot chart */
 #flotTip {
   padding: 8px 12px;
-  background-color: #313a46 !important;
+  background-color: #86cbbe !important;
   z-index: 100;
   color: #ffffff;
   opacity: 0.9;
@@ -3490,7 +3490,7 @@ table.dataTable thead th.sorting_desc:after {
 .ct-chart .ct-series.ct-series-e .ct-line,
 .ct-chart .ct-series.ct-series-e .ct-point,
 .ct-chart .ct-series.ct-series-e .ct-slice-donut {
-  stroke: #313a46;
+  stroke: #86cbbe;
 }
 .ct-chart .ct-series.ct-series-f .ct-bar,
 .ct-chart .ct-series.ct-series-f .ct-line,
@@ -3527,7 +3527,7 @@ table.dataTable thead th.sorting_desc:after {
   min-width: 10px;
   padding: 2px 10px;
   border-radius: 3px;
-  background: #313a46;
+  background: #86cbbe;
   color: #ffffff;
   text-align: center;
   pointer-events: none;
@@ -3545,7 +3545,7 @@ table.dataTable thead th.sorting_desc:after {
   max-width: 100%;
 }
 .c3-tooltip td > span {
-  background: #313a46;
+  background: #86cbbe;
 }
 .c3-tooltip td {
   border-left: none;
@@ -3563,7 +3563,7 @@ table.dataTable thead th.sorting_desc:after {
   border: none !important;
 }
 .c3-tooltip th {
-  background-color: #313a46;
+  background-color: #86cbbe;
 }
 .c3-tooltip .value {
   font-weight: 600;
@@ -3576,12 +3576,12 @@ table.dataTable thead th.sorting_desc:after {
   box-sizing: content-box;
   width: auto !important;
   height: auto !important;
-  background-color: #313a46 !important;
+  background-color: #86cbbe !important;
   padding: 5px 10px !important;
   -webkit-border-radius: 3px;
   border-radius: 3px;
   -moz-border-radius: 3px;
-  border-color: #313a46 !important;
+  border-color: #86cbbe !important;
 }
 .jqsfield {
   font-size: 12px !important;
