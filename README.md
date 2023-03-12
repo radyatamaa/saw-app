@@ -1,6 +1,4 @@
-<a href="https://github.com/mellyzarsmwn/backend-saw/">
-    <img src="assets/image/programmer.png" alt="Programmer logo" title="Backend" align="right" height="60" />
-</a>
+
 
 SAW Application
 ======================
