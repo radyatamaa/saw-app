@@ -152,7 +152,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, 'Backend Manager', 'be-manager@gmail.com', '$2y$10$AMWjHF02ANmQMnyp2CNM9OT0BtSp8qvECx3tdRVrBmRhEwy71RroS', '2022-07-24 22:44:02', '2022-07-24 22:44:02', null);
+(1, 'Human Resource', 'hr@gmail.com', '$2y$10$AMWjHF02ANmQMnyp2CNM9OT0BtSp8qvECx3tdRVrBmRhEwy71RroS', '2022-07-24 22:44:02', '2022-07-24 22:44:02', null);
 
 --
 -- Indexes for dumped tables

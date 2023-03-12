@@ -6,9 +6,9 @@
 	<meta name="description" content="">
 	<meta name="" content="">
 	<!-- App favicon -->
-	<link rel="shortcut icon" href="<?= base_url() ?>assets/images/favicon.ico">
+	<link rel="shortcut icon" href="<?= base_url() ?>assets/image/logo.png">
 	<!-- App title -->
-	<title>Backend SAW</title>
+	<title>SAW Application</title>
 	<!-- App css -->
 	<link href="<?= base_url() ?>plugins/animate/animate.min.css" rel="stylesheet" type="text/css"/>
 	<link href="<?= base_url() ?>assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
